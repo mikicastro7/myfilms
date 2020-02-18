@@ -1,0 +1,39 @@
+.fa-facebook{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    transition: color 0.3s linear;
+}
+.fa-youtube-play{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    transition: color 0.3s linear;
+    padding-left: 20px;
+}
+.fa-twitter{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    transition: color 0.3s linear;
+    padding-left: 20px;
+}
+
+.fa-facebook:hover{
+    color: #7a94ca ;
+    text-decoration: none;
+}
+.fa-youtube-play:hover{
+    color: #FF0000 ;
+    text-decoration: none;
+}
+.fa-twitter:hover{
+    color:#38A1F3;
+    text-decoration: none;
+}
+footer{
+
+    width: 100%;
+}
+
+
