@@ -1,6 +1,6 @@
 @extends('layouts.main')
 @section('content')
-<h1 class="title">Categories Admin</h1>
+<h1 class="title">Categories</h1>
 <div class="container">
     <!--Add category modal Modal -->
   <div class="modal fade" id="addCategoryModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
